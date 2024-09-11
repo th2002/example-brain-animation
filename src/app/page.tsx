@@ -3,7 +3,7 @@
 import { Brain } from "threejs-brain-animation";
 import "threejs-brain-animation/dist/main.css";
 
-export default function () {
+export default function Example() {
   const width = 1000;
   const height = 500;
   return (
